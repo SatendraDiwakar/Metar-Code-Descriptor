@@ -9,7 +9,7 @@ A backend server which takes weather monitoring station code (e.g 'KHUL') and pr
 > - Redis caching
 
 #### Dependencies:
-> - epress
+> - express
 > - redis
 > - node-fetch
 > - metar
@@ -17,7 +17,7 @@ A backend server which takes weather monitoring station code (e.g 'KHUL') and pr
 
 
 ### Setup:
-> - run npm init
+> - run npm init to initialize package.json
 > - add dependencies
 > - add a start script in package.json ( "start": "node server" ) 
 > - run npm start on terminal
