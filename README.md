@@ -3,7 +3,7 @@
 A backend server which takes weather monitoring station code (e.g 'KHUL') and provide current weather information for aviation.
 
 
-### The purpose of this project is to learn and practice concepts related to:
+### The purpose of this project is to work on concepts related to:
 > - Building a web API
 > - NodeJs core
 > - Redis caching
